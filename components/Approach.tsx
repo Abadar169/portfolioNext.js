@@ -14,6 +14,7 @@ const Approach = () => {
         {/* add des prop */}
         <Card
           title="Planning & Strategy"
+          des=""
           icon={<AceternityIcon order="Phase 1" />}
           // des="We'll collaborate to map out your website's goals, target audience,
           // and key functionalities. We'll discuss things like site structure,
@@ -27,6 +28,7 @@ const Approach = () => {
         </Card>
         <Card
           title="Development & Progress Update"
+          des=""
           icon={<AceternityIcon order="Phase 2" />}
           // des="Once we agree on the plan, I cue my lofi playlist and dive into
           // coding. From initial sketches to polished code, I keep you updated
@@ -49,6 +51,7 @@ const Approach = () => {
         </Card>
         <Card
           title="Development & Launch"
+          des=""
           icon={<AceternityIcon order="Phase 3" />}
           // des="This is where the magic happens! Based on the approved design,
           // I'll translate everything into functional code, building your website
